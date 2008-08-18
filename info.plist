@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Asterisk</string>
+	<key>ordering</key>
+	<array>
+		<string>87A75DEE-C2A9-4FB0-A714-2BB692876DA8</string>
+		<string>EBDC1D11-1062-42C0-9600-9863FD89B123</string>
+		<string>D51F55CB-9B1A-4C7D-A1FF-F7708F9466F0</string>
+	</array>
+	<key>uuid</key>
+	<string>748F6765-361E-4ADD-A29F-0B21873D098F</string>
+</dict>
+</plist>
